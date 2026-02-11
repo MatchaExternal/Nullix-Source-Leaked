@@ -1,8 +1,8 @@
 --[[
 ═══════════════════════════════════════════════════════════════
-NULLIX UI FRAMEWORK v4.0
-Ultra Premium Dark Theme — Sidebar Layout
-WITH AUTOMATIC MOBILE SCALING
+NULLIX UI FRAMEWORK LEAKED LOOOOOOOOOOL v4.0
+LEAKED BY KAZICS AND KYLO RAWR :3 !
+STOP USING CHATGPT DUM MUTT LOL @injectingdlls and @kylosilly on discord :3 uwu!
 ═══════════════════════════════════════════════════════════════
 ]]
 
