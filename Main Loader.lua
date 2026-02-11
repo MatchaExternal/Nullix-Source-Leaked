@@ -1626,7 +1626,7 @@ end)
 task.wait(0.3)
 
 pcall(function()
-	loadstring(game:HttpGet("https://pastebin.com/raw/Nk3H9F2i"))()
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/MatchaExternal/Nullix-Source-Leaked/refs/heads/main/Player.lua"))()
 	print("[NULLIX] Player")
 end)
 
