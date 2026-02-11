@@ -1640,13 +1640,13 @@ end)
 task.wait(0.3)
 
 pcall(function()
-	loadstring(game:HttpGet("https://pastebin.com/raw/vsDRCHM2"))()
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/MatchaExternal/Nullix-Source-Leaked/refs/heads/main/Sell.Lua"))()
 	print("[NULLIX] SELL")
 end)
 
 task.wait(0.3)
 
 pcall(function()
-	loadstring(game:HttpGet("https://pastebin.com/raw/zXSdtsej"))()
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/MatchaExternal/Nullix-Source-Leaked/refs/heads/main/Giver.lua"))()
 	print("[NULLIX] Giver")
 end)
