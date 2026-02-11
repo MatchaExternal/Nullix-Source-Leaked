@@ -1633,7 +1633,7 @@ end)
 task.wait(0.3)
 
 pcall(function()
-	loadstring(game:HttpGet("https://pastebin.com/raw/TXWcrWf3"))()
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/MatchaExternal/Nullix-Source-Leaked/refs/heads/main/ESP.lua"))()
 	print("[NULLIX] ESP")
 end)
 
