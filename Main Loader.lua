@@ -1619,7 +1619,7 @@ end
 task.wait(0.3)
 
 pcall(function()
-	loadstring(game:HttpGet("https://pastebin.com/raw/AWCYm9xY"))()
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/MatchaExternal/Nullix-Source-Leaked/refs/heads/main/Automatic%20System.lua"))()
 	print("[NULLIX] Automatic System")
 end)
 
